@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         VK Restore Shorts timeline slider
-// @version      0.1
+// @version      0.2
 // @description  Restore timeline slider for VK Shorts
 // @author       makise-homura
 // @match        https://vk.com/*
