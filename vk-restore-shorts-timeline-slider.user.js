@@ -17,4 +17,4 @@ new MutationObserver((m) =>
             e.classList.remove("videoplayer_controls_item_hidden");
         }
     });
-}).observe(document.body, {childList: true});
+}).observe(document.body, {childList: true, subtree: true});
